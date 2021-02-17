@@ -17,3 +17,5 @@ Description
    `npm run start:pow`  
    `npm run start:fib`  
    `npm run start:prime`
+3. Bitboard
+   `npm run start:bit`

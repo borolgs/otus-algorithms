@@ -13,3 +13,7 @@ Description
    `npm run start:tickets`  
    [Harry Potter Square](./src/spells/readme.md)  
    `npm run start:spells`
+2. [Algebraic algorithms](./src/algebra/readme.md)  
+   `npm run start:pow`  
+   `npm run start:fib`  
+   `npm run start:prime`

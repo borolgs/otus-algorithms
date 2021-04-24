@@ -1,4 +1,4 @@
-# Otus Algo HW Template
+# Otus Algo
 
 Description
 
@@ -19,3 +19,5 @@ Description
    `npm run start:prime`
 3. Bitboard
    `npm run start:bit`
+4. [Sorts](src/sort/readme.md)  
+   `npm run start:sort`

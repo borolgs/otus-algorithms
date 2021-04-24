@@ -17,5 +17,7 @@ Description
    `npm run start:pow`  
    `npm run start:fib`  
    `npm run start:prime`
-3. [Sorts](src/sort/readme.md)  
+3. Bitboard
+   `npm run start:bit`
+4. [Sorts](src/sort/readme.md)  
    `npm run start:sort`

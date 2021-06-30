@@ -17,7 +17,13 @@ Description
    `npm run start:pow`  
    `npm run start:fib`  
    `npm run start:prime`
-3. Bitboard
+3. Bitboard  
    `npm run start:bit`
-4. [Sorts](src/sort/readme.md)  
+4. [Data Structures](https://github.com/borolgs/otus-data-structures)
+5. [Sorts](src/sort/readme.md)  
    `npm run start:sort`
+6. Mega Sort **TODO**
+7. Binary Tree **TODO**
+8. Hash **TODO**
+9. Kosaraju
+10. Demicron

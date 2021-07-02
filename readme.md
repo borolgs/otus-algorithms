@@ -25,5 +25,6 @@ Description
 6. Mega Sort **TODO**
 7. Binary Tree **TODO**
 8. Hash **TODO**
-9. Kosaraju
+9. Kosaraju  
+   `npm run test:kosaraju`
 10. Demicron

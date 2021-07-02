@@ -12,7 +12,8 @@
     "start:pow": "ts-node src/algebra/pow/index.ts",
     "start:fib": "ts-node src/algebra/fibonacci/index.ts",
     "start:prime": "ts-node src/algebra/prime/index.ts",
-    "start:sort": "ts-node src/sort/index.ts"
+    "start:sort": "ts-node src/sort/index.ts",
+    "test:kosaraju": "npm test -- src/graph/kosaraju.spec.ts"
   },
   "author": "",
   "license": "ISC",

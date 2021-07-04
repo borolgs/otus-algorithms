@@ -27,4 +27,5 @@ Description
 8. Hash **TODO**
 9. Kosaraju  
    `npm run test:kosaraju`
-10. Demicron
+10. Demicron  
+    `npm run test:demicron`

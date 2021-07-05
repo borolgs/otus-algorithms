@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --verbose",
     "build": "tsc",
-    "dev": "nodemon --exec ts-node src/graph/demicron.ts",
+    "dev": "nodemon --exec ts-node src/graph/boruvka.ts",
     "start:tickets": "ts-node src/tickets/index.ts",
     "start:spells": "ts-node src/spells/index.ts",
     "start:pow": "ts-node src/algebra/pow/index.ts",
@@ -14,7 +14,9 @@
     "start:prime": "ts-node src/algebra/prime/index.ts",
     "start:sort": "ts-node src/sort/index.ts",
     "test:kosaraju": "npm test -- src/graph/kosaraju.spec.ts",
-    "test:demicron": "npm test -- src/graph/demicron.spec.ts"
+    "test:demicron": "npm test -- src/graph/demicron.spec.ts",
+    "test:kruskal": "npm test -- src/graph/kruskal.spec.ts",
+    "test:boruvka": "npm test -- src/graph/boruvka.spec.ts"
   },
   "author": "",
   "license": "ISC",

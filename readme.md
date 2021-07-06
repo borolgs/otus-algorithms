@@ -31,6 +31,8 @@ Description
     `npm run test:demicron`
 11. MST
     - Kruskal  
-      ` npm run test:kruskal`
+      `npm run test:kruskal`
     - Boruvka  
        `npm run test:boruvka`
+12. Dijkstra  
+    `npm run test:dijkstra`
